@@ -1,0 +1,20 @@
+img{
+    width: 320px ;
+    height: 200px !important;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-left: 10px ;
+    border-radius: 5px;
+}
+
+.image-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 15px ;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    color: crimson;
+}
