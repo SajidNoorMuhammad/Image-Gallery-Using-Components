@@ -12,7 +12,7 @@ function App() {
     { url: "Images/f.jpg" },
     { url: "Images/g.jpg" },
     { url: "Images/h.jpg" },
-    { url: "Images/i.jfif" },
+    { url: "Images/d.jfif" },
     { url: "Images/j.webp" },
     { url: "Images/k.jpg" },
     { url: "Images/l.jpg" },
