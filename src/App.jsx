@@ -7,18 +7,18 @@ import ImageGallery from '../Components/ImageGallery'
 function App() {
 
   const images = [
-    { url: "a.jpg" },
-    { url: "c.jpg" },
-    { url: "f.jpg" },
-    { url: "g.jpg" },
-    { url: "h.jpg" },
-    { url: "/d.jfif" },
-    { url: "/j.webp" },
-    { url: " /k.jpg" },
-    { url: "/l.jpg" },
-    { url: "/m.jpeg" },
-    { url: "/n.webp" },
-    { url: "/o.jfif" },
+    { url: "Images/a.jpg" },
+    { url: "Images/c.jpg" },
+    { url: "Images/f.jpg" },
+    { url: "Images/g.jpg" },
+    { url: "Images/h.jpg" },
+    { url: "Images/d.jfif" },
+    { url: "Images/j.webp" },
+    { url: "Images/k.jpg" },
+    { url: "Images/l.jpg" },
+    { url: "Images/m.jpeg" },
+    { url: "Images/n.webp" },
+    { url: "Images/o.jfif" },
 
     
   ]
