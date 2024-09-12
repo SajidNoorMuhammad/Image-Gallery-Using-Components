@@ -7,7 +7,7 @@ import ImageGallery from '../Components/ImageGallery'
 function App() {
 
   const images = [
-    { url: "Images/a.jpg" },
+    { url: "/Images/a.jpg" },
     { url: "Images/c.jpg" },
     { url: "Images/f.jpg" },
     { url: "Images/g.jpg" },
