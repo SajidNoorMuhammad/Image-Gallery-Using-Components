@@ -7,17 +7,17 @@ function App() {
 
   const images = [
     { url: "/Images/a.jpg" },
-    { url: "Images/c.jpg" },
-    { url: "Images/f.jpg" },
-    { url: "Images/g.jpg" },
-    { url: "Images/h.jpg" },
-    { url: "Images/d.jfif" },
-    { url: "Images/j.webp" },
-    { url: "Images/k.jpg" },
-    { url: "Images/l.jpg" },
-    { url: "Images/m.jpeg" },
-    { url: "Images/n.webp" },
-    { url: "Images/o.jfif" },
+    { url: "/Images/c.jpg" },
+    { url: "/Images/f.jpg" },
+    { url: "/Images/g.jpg" },
+    { url: "/Images/h.jpg" },
+    { url: "/Images/d.jfif" },
+    { url: "/Images/j.webp" },
+    { url: "/Images/k.jpg" },
+    { url: "/Images/l.jpg" },
+    { url: "/Images/m.jpeg" },
+    { url: "/Images/n.webp" },
+    { url: "/Images/o.jfif" },
 
     
   ]
